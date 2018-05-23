@@ -53,8 +53,8 @@
 ### 📐📏 Design Systems, CSS & Components
 - [ ] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
 - [ ] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
-- [ ] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
-- [ ] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
+- [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
+- [x] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
 - [ ] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [ ] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
 - [ ] [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css)
@@ -64,7 +64,7 @@
 - [ ] [Composition - Nik Graf at ReactEurope 2017](https://www.youtube.com/watch?v=qJgff2spvzM)
 - [ ] [Components](http://jxnblk.com/writing/posts/components/)
 - [ ] [CSS and Scalability](http://mrmrs.github.io/writing/2016/03/24/scalable-css)
-- [ ] [Pure UI](https://rauchg.com/2015/pure-ui#)
+- [x] [Pure UI](https://rauchg.com/2015/pure-ui#)
 
 
 
